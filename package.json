@@ -1,0 +1,14 @@
+{
+  "name": "phantomjs",
+  "version": "1.0.0",
+  "description": "Just a dummy project to understand the working of PhantomJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Apurv Jain",
+  "license": "ISC",
+  "dependencies": {
+    "phantom": "^2.1.18"
+  }
+}
